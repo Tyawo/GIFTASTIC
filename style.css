@@ -1,0 +1,35 @@
+
+button{
+    padding: 3px;
+    width: auto;
+    margin-right: 5px;
+    color:black;
+}
+
+.results{
+    padding-top: 100px;
+    max-width: 800px;
+    float: left;
+}
+.card-body{
+    float: left;
+    width:30px;
+}
+.img{
+height: 150px;
+width: 150px;
+padding: 20p 10 10 20px;
+border: 2px solid black;
+
+}
+#topic-form{
+    float: right;
+    width: 25%;
+    margin-top: 50px;
+}
+#add-input{
+    margin-left: 30px;
+}
+#add-topic{
+    font: black;
+}
